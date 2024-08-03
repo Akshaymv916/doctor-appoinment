@@ -26,3 +26,4 @@ This application is a doctor appointment booking system developed using the Djan
 - **Version Control:**
   - Git
 
+![Description of the image](screenshots/Screenshot%20(34).png)
